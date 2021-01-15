@@ -1,0 +1,9 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "0.0.0",
+  "description": "RockPaperScissors",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
